@@ -1,7 +1,7 @@
 helmCharts:
-- name: fastapi
-  repo: https://build-deploy-pipeline.github.io/helm-charts
+- name: demo
+  repo: https://github.com/so-so2456/demo-helm-chart
   version: 0.1.0
-  releaseName: example
+  releaseName: demo
   namespace: default
   valuesFile: values.yaml

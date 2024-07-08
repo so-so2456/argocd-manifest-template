@@ -1,6 +1,6 @@
 helmCharts:
 - name: demo
-  repo: https://github.com/so-so2456/demo-helm-chart
+  repo: https://so-so2456.github.io/demo-helm-chart/
   version: 0.1.0
   releaseName: demo
   namespace: default
